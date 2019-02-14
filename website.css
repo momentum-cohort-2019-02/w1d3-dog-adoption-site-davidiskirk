@@ -1,0 +1,134 @@
+.body {
+    font-family: open sans;
+    max-width: 1000px;
+    margin: auto;
+
+
+}
+
+
+
+.header {
+    background-color:#173E73;
+    border-style: solid;
+    border-width: 5%;
+    color: white;
+    margin: 20px 0;
+    padding: 30px;
+    font-family: open sans;
+    text-align: left;
+    font-weight: bold;
+    border-bottom-color: skyblue;
+}
+
+
+
+.selector {
+    background-color: #F0EDEE;
+    margin: 20px 0;
+    list-style-type: none;
+    text-align: left;
+    padding: 10px;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    
+
+
+
+
+
+}
+
+
+.list {
+    display: inline;
+    font-size: 20px;
+    padding: 20px;
+    text-align: center;
+    list-style-type: none;
+    background-color: grey;
+    padding: 0;
+
+
+
+}
+.doggies {
+    margin-top: 20px;
+    margin-right: 20px;
+    max-width: 300px;
+    
+
+}
+.container {
+    display:flex;
+    max-height: 300px;
+    
+    
+    
+
+
+
+
+}
+
+.container2 {
+    display:flex;
+    max-height: 300px;
+    
+}
+
+
+.container3 {
+    display:flex;
+    max-height: 300px;
+}
+
+.container4 {
+    display:flex;
+    max-height: 300px;
+}
+
+
+
+
+
+
+
+.footer {
+    max-width:300px;
+    display: flex;
+    max-height: 300px;
+    margin-top:20px;
+    justify-content: space-between;
+    margin-right:20px;
+    
+}
+
+    
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+display: flex;
+justify-content: flex
+
+
+
+
+
+
+    
+
+
+
